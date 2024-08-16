@@ -5,3 +5,12 @@
    - Searching recipes by ingredient.
    - Searching recipes by minimum rating.
    - Viewing all existing recipes
+
+|    | TEAM | |
+| :---: | :---: | :---: |
+| Name | Roll no | SRN  |
+| :---: | :---: | :---: |
+|Akhilesh Joshi  | 03	   |    02FE22BCS013 |
+|Atharv Shirgurkar	|  10	   |    02FE22BCS024 |
+|Regina Fernandes	 |  27	  |     02FE22BCS081  |
+|Shreya Miskin	  |   49	    |   02FE22BCS125  |
