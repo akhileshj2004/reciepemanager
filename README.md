@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/language-C%2B%2B-blue.svg" alt="Language: C++">
   <img src="https://img.shields.io/badge/paradigm-OOP-orange.svg" alt="Paradigm: OOP">
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT">
-  <img src="https://img.shields.io/badge/status-stable-brightgreen.svg" alt="Status: Stable">
+  <img src="https://img.shields.io/badge/status-stable-brightgreen.svg" alt="Status: Completed">
 </p>
 
 A comprehensive C++ application for managing culinary recipes using object-oriented programming principles. This system enables users to create, manage, search, and rate both vegetarian and non-vegetarian recipes.
